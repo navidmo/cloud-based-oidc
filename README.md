@@ -1,6 +1,6 @@
 # YorkU Secure App - IBM App ID Integration
 
-Please [Download the Workshop PDF](./workshop.pdf) and see below
+Please [Download the Workshop Lab PDF](./workshop-lab.pdf) and see below
 
 ## Introduction
 
