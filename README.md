@@ -1,5 +1,7 @@
 # YorkU Secure App - IBM App ID Integration
 
+Please [Download the Workshop PDF](./workshop.pdf) and see below
+
 ## Introduction
 
 This Next.js application demonstrates enterprise-level authentication and authorization using IBM App ID and OpenID Connect (OIDC). Built with security and scalability in mind, it provides a robust foundation for secure web applications.
