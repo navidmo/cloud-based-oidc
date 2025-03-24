@@ -3,7 +3,7 @@
 Please review the following resources in preparation for this module:
 
 - [**Pre-Lecture Slides**](./pre-lecture-slides.pdf): A high-level overview of the key concepts covered in this week’s topic, including IAM, OAuth2/OIDC, and JWT fundamentals.  
-- [**Pre-Lecture Video Presentation**](./pre-lecture-video.mp4): A recorded walkthrough that supplements the slides, featuring a conceptual explanation and a brief demo using IBM Cloud App ID.  
+- [**Pre-Lecture Video Presentation**](https://www.youtube.com/watch?v=aOX40IWCCCE): A recorded walkthrough that supplements the slides, featuring a conceptual explanation and a brief demo using IBM Cloud App ID.  
 - [**Workshop Lab Instructions**](./workshop-lab.pdf): This document outlines the hands-on lab you will complete in-class, where you will implement authentication with IBM App ID and perform token inspection and validation.
 
 In addition, please explore the below README file and accompanying source code files in this repository for additional context and supporting code samples relevant to the workshop-lab exercises.
